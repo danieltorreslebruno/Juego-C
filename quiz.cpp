@@ -17,7 +17,7 @@ void comodin_busqueda(){
     system("firefox&");
     printf("¡La cuenta atras comienzaa!\n");
 
-    for(int i = 330; i>0; i--){
+    for(int i = 30; i>0; i--){
 	printf("Tiempo restante: %i\n", i);
 	system("sleep 1");
     }
