@@ -10,6 +10,8 @@ como a nivel externo(funcionalidades).
 
 06 - 06 - 14
 
+/*06-06-14*/
+-Arreglado error en la funcion comodin_busqueda() en la que el tiempo dado para buscar por internet la solucion eran 35 segundos en vez de 30.
 
 
 
